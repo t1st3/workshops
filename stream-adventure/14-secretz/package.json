@@ -1,0 +1,20 @@
+{
+	"name": "@t1st3/workshops",
+	"version": "0.0.0",
+	"description": "t1st3 solutions to some public workshops",
+	"license": "CC0-1.0",
+	"repository": "t1st3/workshops",
+	"author": {
+		"name": "t1st3",
+		"email": "contact@t1st3.com",
+		"url": "t1st3.com"
+	},
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"concat-stream": "^1.6.0",
+		"tar": "^4.0.1",
+		"through2": "^2.0.3"
+	}
+}
